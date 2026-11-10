@@ -1,0 +1,14 @@
+{
+  "shopName": "Demo Resale Shop",
+  "shopDescription": "Quality furniture and art for your home",
+  "email": "",
+  "location": "Anytown",
+  "ebayAppId": "",
+  "ebayDevId": "",
+  "ebayCertId": "",
+  "ebayUserToken": "",
+  "ebaySandbox": true,
+  "etsyApiKey": "",
+  "etsyAccessToken": "",
+  "etsyShopId": ""
+}

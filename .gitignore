@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.*
+!.env.example
+
+# User-uploaded photos (sample placeholders are kept)
+public/uploads/*
+!public/uploads/.gitkeep
+!public/uploads/sample-*.svg
+
+# Generated storefront output
+website/*
+!website/.gitkeep
+
+# Local/private data
+data/*.local*
+*.log

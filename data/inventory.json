@@ -1,0 +1,203 @@
+{
+  "products": [
+    {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "title": "Mid-Century Walnut Armchair",
+      "description": "Solid walnut frame with re-upholstered cushion. Sturdy, no wobble.",
+      "price": 180,
+      "originalPrice": 320,
+      "category": "furniture",
+      "condition": "excellent",
+      "color": "Walnut / Mustard",
+      "dimensions": "30\" W x 28\" D x 32\" H",
+      "location": "Anytown",
+      "tags": [
+        "mid century",
+        "armchair"
+      ],
+      "photos": [
+        "sample-armchair.svg"
+      ],
+      "listings": {
+        "ebay": {
+          "status": "not_listed",
+          "id": null,
+          "url": null
+        },
+        "etsy": {
+          "status": "not_listed",
+          "id": null,
+          "url": null
+        },
+        "facebook": {
+          "status": "listed",
+          "id": null,
+          "url": "https://example.com/listing/demo",
+          "listedAt": "2026-01-10T15:00:00.000Z"
+        },
+        "craigslist": {
+          "status": "listed",
+          "id": null,
+          "url": "https://example.com/listing/demo",
+          "listedAt": "2026-01-10T15:05:00.000Z"
+        },
+        "offerup": {
+          "status": "not_listed",
+          "url": null
+        }
+      },
+      "sold": false,
+      "soldPrice": null,
+      "soldDate": null,
+      "soldPlatform": null,
+      "createdAt": "2026-01-10T14:00:00.000Z",
+      "updatedAt": "2026-01-10T14:00:00.000Z"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000002",
+      "title": "Framed Landscape Print",
+      "description": "Framed giclee print of a mountain landscape, glass front.",
+      "price": 65,
+      "originalPrice": 0,
+      "category": "art",
+      "condition": "like_new",
+      "color": "Green / Gold frame",
+      "dimensions": "24\" x 18\"",
+      "location": "Anytown",
+      "tags": [
+        "wall art",
+        "landscape"
+      ],
+      "photos": [
+        "sample-landscape.svg"
+      ],
+      "listings": {
+        "ebay": {
+          "status": "not_listed",
+          "id": null,
+          "url": null
+        },
+        "etsy": {
+          "status": "listed",
+          "id": null,
+          "url": "https://example.com/listing/demo",
+          "listedAt": "2026-01-12T10:00:00.000Z"
+        },
+        "facebook": {
+          "status": "not_listed",
+          "url": null
+        },
+        "craigslist": {
+          "status": "not_listed",
+          "url": null
+        },
+        "offerup": {
+          "status": "not_listed",
+          "url": null
+        }
+      },
+      "sold": false,
+      "soldPrice": null,
+      "soldDate": null,
+      "soldPlatform": null,
+      "createdAt": "2026-01-12T09:00:00.000Z",
+      "updatedAt": "2026-01-12T09:00:00.000Z"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000003",
+      "title": "Brass Arc Floor Lamp",
+      "description": "Adjustable brass arc lamp with marble base. Works perfectly.",
+      "price": 120,
+      "originalPrice": 0,
+      "category": "lighting",
+      "condition": "very_good",
+      "color": "Brass",
+      "dimensions": "72 in tall",
+      "location": "Anytown",
+      "tags": [
+        "lamp"
+      ],
+      "photos": [
+        "sample-lamp.svg"
+      ],
+      "listings": {
+        "ebay": {
+          "status": "not_listed",
+          "id": null,
+          "url": null
+        },
+        "etsy": {
+          "status": "not_listed",
+          "id": null,
+          "url": null
+        },
+        "facebook": {
+          "status": "not_listed",
+          "url": null
+        },
+        "craigslist": {
+          "status": "not_listed",
+          "url": null
+        },
+        "offerup": {
+          "status": "not_listed",
+          "url": null
+        }
+      },
+      "sold": false,
+      "soldPrice": null,
+      "soldDate": null,
+      "soldPlatform": null,
+      "createdAt": "2026-01-14T09:00:00.000Z",
+      "updatedAt": "2026-01-14T09:00:00.000Z"
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000004",
+      "title": "Oak Side Table",
+      "description": "Small solid oak side table with one drawer.",
+      "price": 75,
+      "originalPrice": 0,
+      "category": "furniture",
+      "condition": "good",
+      "color": "Natural oak",
+      "dimensions": "18\" x 18\" x 24\"",
+      "location": "Anytown",
+      "tags": [],
+      "photos": [
+        "sample-table.svg"
+      ],
+      "listings": {
+        "ebay": {
+          "status": "not_listed",
+          "id": null,
+          "url": null
+        },
+        "etsy": {
+          "status": "not_listed",
+          "id": null,
+          "url": null
+        },
+        "facebook": {
+          "status": "listed",
+          "id": null,
+          "url": "https://example.com/listing/demo",
+          "listedAt": "2026-01-05T09:00:00.000Z"
+        },
+        "craigslist": {
+          "status": "not_listed",
+          "url": null
+        },
+        "offerup": {
+          "status": "not_listed",
+          "url": null
+        }
+      },
+      "sold": true,
+      "soldPrice": 70,
+      "soldDate": "2026-01-08T18:00:00.000Z",
+      "soldPlatform": "facebook",
+      "createdAt": "2026-01-05T08:00:00.000Z",
+      "updatedAt": "2026-01-05T08:00:00.000Z"
+    }
+  ]
+}

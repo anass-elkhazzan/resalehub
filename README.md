@@ -86,12 +86,12 @@ Direct posting to eBay or Etsy needs developer credentials, entered on the **Set
 
 ## How it was built
 
-Built with [Claude Code](https://claude.com/claude-code). I described the workflow I needed as a reseller, and the app was developed with an AI coding assistant, with me directing features, testing in the browser and using it on my own listings.
+Built with [Claude Code](https://claude.com/claude-code). I defined the requirements and workflow (inventory, then per-platform listing text, then listing status, then sales stats) and directed the build with Claude Code.
 
 ## Known limitations
 
 - No authentication. Run it on your own machine only; do not expose it to the internet.
-- API credentials are stored unencrypted in `data/settings.json`.
+- API credentials are stored unencrypted in `data/settings.json`. The committed copy is blank on purpose; after cloning, run `git update-index --skip-worktree data/settings.json` before entering real keys so they are never committed.
 - The eBay and Etsy direct-posting code has not been verified against live accounts. The eBay request uses US site, USD and PayPal defaults.
 - The `/api/website-preview` route serves the generated HTML, but its relative image paths do not resolve from that URL. Open `website/index.html` directly to see images.
 - No automated tests.
